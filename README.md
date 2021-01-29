@@ -1,6 +1,6 @@
 <h>**DS203 - Programming for Data Science**</h>
 
-<body>The course is a soft core course required to be taken towards the completion of the AI Minor offered by <a href = "minds.iitb.ac.in/index.php/home">C-MInDS, IIT Bombay</a>.
+<body>The course is a soft core course required to be taken towards the completion of the AI Minor offered by <a href = "https://www.minds.iitb.ac.in/">C-MInDS, IIT Bombay</a>.
 <br><br>The course was an entirely hands on practical course comprising 10 Assignments and a Course Project. I've uploaded the all the assignments and the code solutions for the same
 (barring assignments 1 & 2, which were theoretical) along with my Course Project which was done by Sumit Ranjan, Ritwik Gupta and I. The datasets that I have worked on in my assignments
 are listed in the Problem Statement pdf file itself.

@@ -9,7 +9,7 @@ are listed in the Problem Statement pdf file itself.
 course was taken by Prof. <a href = "https://www.cse.iitb.ac.in/~sudarsha/">Sudarshan S</a> and he used his own RDBMS book to teach. <a href = "https://www.db-book.com/">Here's</a> the 
 link to the book. 
 
-Copyright of the Assignments go to Prof. <a href="https://www.ee.iitb.ac.in/~asethi/">Amit Sethi</a>, Prof. <a href="https://www.ieor.iitb.ac.in/mhanawal">Manjesh K. Hanawal</a> and 
+Copyright of the Assignments go to Prof. <a href="https://www.ee.iitb.ac.in/~asethi/">Amit Sethi</a>, Prof. <a href="https://www.ieor.iitb.ac.in/files/faculty/mhanawal/index.html">Manjesh K. Hanawal</a> and 
 Prof. <a href="https://www.cse.iitb.ac.in/~sunita/">Sunita Sarawagi</a>
 
 <ul>
